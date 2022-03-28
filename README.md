@@ -1,6 +1,6 @@
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasrabiec&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrabiec&layout=compact&count_private=true&hide=c%23&theme=cobalt" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasrabiec&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" />
 </div>
 
 
