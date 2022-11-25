@@ -1,3 +1,9 @@
+### Hi 👋
+
+My name is Łukasz (Lucas) and I can't fall asleep because I have 1 More Bug to smash.
+
+You can reach me on [Twitter](https://twitter.com/lucasrabiec) or [LinkedIn](https://www.linkedin.com/in/lukaszrabiec/) and also steal a trick from [my GitHub Gists](https://gist.github.com/lucasrabiec)
+
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrabiec&layout=compact&count_private=true&hide=c%23&theme=cobalt" />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasrabiec&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" />
