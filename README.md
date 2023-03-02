@@ -1,6 +1,4 @@
-### Hi 👋
-
-My name is Łukasz (Lucas) and I can't fall asleep because I have 1 More Bug to smash.
+### Hello there 🧔🏻
 
 You can reach me on [Twitter](https://twitter.com/lucasrabiec) or [LinkedIn](https://www.linkedin.com/in/lukaszrabiec/) and also steal a trick from [my GitHub Gists](https://gist.github.com/lucasrabiec)
 
